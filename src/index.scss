@@ -1,0 +1,5 @@
+// Include a USWDS settings file (required)
+@forward "uswds-settings.scss";
+
+// Point to the USWDS source code (required)
+@forward "../node_modules/uswds/dist/css/uswds.css";
